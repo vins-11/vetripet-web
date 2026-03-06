@@ -324,7 +324,7 @@ export default function App() {
     }
 
     const payload = {
-      access_key: import.meta.env.VITE_WEB3FORM_KEY,
+      access_key: "f91d81cb-bc56-42c7-85ed-9f60d9bf51c1",
       name,
       email,
       phone: phone || undefined,
