@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vetript">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b6a3a" />
+      <stop offset="1" stop-color="#07512c" />
+    </linearGradient>
+  </defs>
+  <path
+    fill="url(#g)"
+    d="M32 58s-3.2-1.8-6.7-4.2C16.9 48.7 8 41 8 30.6 8 22.3 14.4 16 22.2 16c4.4 0 7.8 2.1 9.8 4.2 2-2.1 5.4-4.2 9.8-4.2C49.6 16 56 22.3 56 30.6c0 10.4-8.9 18.1-17.3 23.2C35.2 56.2 32 58 32 58z"
+  />
+  <!-- simple paw -->
+  <circle cx="22" cy="29" r="3.4" fill="#ffffff" opacity="0.95" />
+  <circle cx="42" cy="29" r="3.4" fill="#ffffff" opacity="0.95" />
+  <circle cx="27.5" cy="24.2" r="3.2" fill="#ffffff" opacity="0.95" />
+  <circle cx="36.5" cy="24.2" r="3.2" fill="#ffffff" opacity="0.95" />
+  <path
+    d="M32 32.5c-4.1 0-7.2 3-7.2 6.3 0 3.3 3.1 5.9 7.2 5.9s7.2-2.6 7.2-5.9c0-3.3-3.1-6.3-7.2-6.3z"
+    fill="#ffffff"
+    opacity="0.95"
+  />
+</svg>
+
